@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="gWallet"/>
+<aop-project name="library-management-devang"/>
+<aop-project name="Spring-security (In Memory)"/>
+<aop-project name="custom-error"/>
+<aop-project name="Minor Project 2"/>
+<aop-project name="social-click"/>
+<aop-project name="Authorization"/>
+<aop-project name="JPA-joins"/>
+<aop-project name="Actuator_new"/>
+<aop-project name="JPA"/>
+<aop-project name="SMS"/>
+<aop-project name="kafka1"/>
+<aop-project name="Spring-security (UserDetails)"/>
+<aop-project name="spring-security-jwt"/>
+<aop-project name="eWallet"/>
+<aop-project name="social-github"/>
+<aop-project name="social-logout"/>
+<aop-project name="social-simple"/>
+<aop-project name="Minor_Project_1_library-management"/>
+</aop-reference-model>

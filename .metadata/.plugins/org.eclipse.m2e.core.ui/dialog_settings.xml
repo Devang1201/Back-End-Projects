@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\hp\Desktop\JBDL\Major Project\WalletService"/>
+			<item value="C:\Users\hp\Desktop\JBDL\Major Project"/>
+			<item value="C:\Users\hp\Desktop\JBDL\Major Project\UserService"/>
+			<item value="C:\Users\hp\Desktop\JBDL\Minor Project 2"/>
+			<item value="C:\Users\hp\Desktop\JBDL\tut-spring-boot-oauth2-master"/>
+			<item value="C:\Users\hp\Desktop\JBDL\Minor_Project_1_library-management"/>
+			<item value="C:\Users\hp\Desktop\JBDL\Lecture_9_Actuator_Sms_Email_Kafka"/>
+			<item value="C:\Users\hp\Desktop\JBDL\spring-security-jwt"/>
+			<item value="C:\Users\hp\Desktop\JBDL\Spring-security (UserDetails)"/>
+			<item value="C:\Users\hp\Desktop\JBDL\Spring-security (In Memory)"/>
+			<item value="C:\Users\hp\Desktop\JBDL\JPA-joins"/>
+			<item value="C:\Users\hp\Desktop\JBDL\Lecture_7_Redis_Example_Authorization"/>
+			<item value="C:\Users\hp\Desktop\JBDL\JDBL-2-master\JPA"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

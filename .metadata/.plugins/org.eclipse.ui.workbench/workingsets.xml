@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1583064345173_0" label="Java Main Sources" name="Java Main Sources">
+<item elementID="=demo-jpa-example/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=demo-jpa-example/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1583064345213_1" label="Java Test Sources" name="Java Test Sources">
+<item elementID="=demo-jpa-example/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1584627100624_3" label="tut-spring-boot-oauth" name="tut-spring-boot-oauth">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/custom-error" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/tut-spring-boot-oauth2-master" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/social-logout" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/social-github" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/social-simple" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/social-click" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1583064347373_2" label="Window Working Set" name="Aggregate for window 1583064347373"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1585405693223_4" label="Window Working Set" name="Aggregate for window 1585405693223"/>
+</workingSetManager>

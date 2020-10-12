@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;CreateRequest.java&apos; to &apos;library-management/src/main/java/com.example.library.management&apos;&#x0D;&#x0A;- Original project: &apos;JPA&apos;&#x0D;&#x0A;- Destination element: &apos;library-management/src/main/java/com.example.library.management&apos;&#x0D;&#x0A;- Original element: &apos;com.example.jpaexample.demojpaexample.CreateRequest.java&apos;" description="Copy compilation unit" destination="=library-management/src\/main\/java&lt;com.example.library.management" element1="/src\/main\/java&lt;com.example.jpaexample.demojpaexample{CreateRequest.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1583419658609" units="1" version="1.0"/>
+</session>

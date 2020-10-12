@@ -1,0 +1,11 @@
+package com.example.library.management;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import java.util.List;
+import org.springframework.data.jpa.repository.*;
+
+public interface UserRepository extends JpaRepository<User,Integer>{
+
+	@Query(value = "SELECT * FROM ")
+	List<User> findByUserName(String username); 
+}
